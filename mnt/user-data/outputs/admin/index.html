@@ -7,6 +7,37 @@
   <meta name="robots" content="noindex, nofollow">
 </head>
 <body>
+  <!-- Configuração do CMS embutida aqui dentro — não depende de buscar
+       um config.yml separado, então não quebra se esse arquivo não for
+       encontrado no caminho certo. -->
+  <script type="text/yaml" id="cms-config">
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "blog/uploads"
+public_folder: "/blog/uploads"
+
+publish_mode: simple
+
+collections:
+  - name: "posts"
+    label: "Posts do Blog"
+    label_singular: "Post"
+    folder: "content/posts"
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    identifier_field: title
+    summary: "{{title}} — {{date}}"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Data de publicação", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
+      - { label: "Resumo (aparece na listagem)", name: "excerpt", widget: "text" }
+      - { label: "Imagem de capa", name: "cover", widget: "image", required: false }
+      - { label: "Conteúdo", name: "body", widget: "markdown" }
+  </script>
+
   <!-- Netlify Identity precisa desse script para o login funcionar -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
