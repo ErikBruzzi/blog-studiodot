@@ -1,8 +1,10 @@
 ---
-title: "Por que o design do seu site é a sua primeira impressão (mesmo antes de você falar)"
-date: "2026-08-12"
-excerpt: "Antes de ler uma palavra sobre o seu negócio, o visitante já formou uma opinião sobre ele. Entenda por que o design não é só estética — é confiança."
-cover: ""
+title: Por que o design do seu site é a sua primeira impressão (mesmo antes de
+  você falar)
+date: 2026-08-12
+excerpt: Antes de ler uma palavra sobre o seu negócio, o visitante já formou uma
+  opinião sobre ele. Entenda por que o design não é só estética — é confiança.
+cover: /blog/uploads/ad_interface_importa.png
 ---
 
 Imagine conhecer alguém pessoalmente. Antes mesmo da primeira frase, você já formou uma impressão — pela postura, pela forma como a pessoa se apresenta. Com um site, o processo é parecido, só que muito mais rápido.
