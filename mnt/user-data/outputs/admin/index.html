@@ -35,12 +35,12 @@ collections:
       - { label: "Data de publicação", name: "date", widget: "datetime", format: "YYYY-MM-DD" }
       - { label: "Resumo (aparece na listagem)", name: "excerpt", widget: "text" }
       - { label: "Imagem de capa", name: "cover", widget: "image", required: false }
-      - { label: "Conteúdo", name: "body", widget: "markdown" }
+      - { label: "Conteúdo", name: "body", widget: "markdown", modes: ["raw"] }
   </script>
 
   <!-- Netlify Identity precisa desse script para o login funcionar -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  <script src="https://unpkg.com/decap-cms@3.3.3/dist/decap-cms.js"></script>
   <script>
     if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", (user) => {

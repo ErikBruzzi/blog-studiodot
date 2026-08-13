@@ -75,7 +75,8 @@ body.blog-page main{ display:block; }
 }
 
 .blog-state{
-  padding:60px 0; text-align:center; color:var(--blog-ink-soft); font-size:15px;
+  padding:60px 32px; text-align:center; color:var(--blog-ink-soft); font-size:15px;
+  max-width:720px; margin:0 auto;
 }
 
 /* ---------- SINGLE POST ---------- */
@@ -129,7 +130,15 @@ body.blog-page main{ display:block; }
 
 @media (max-width:860px){
   .post-grid{ grid-template-columns:1fr; }
-  .blog-hero h1{ font-size:36px; }
-  .post-title{ font-size:30px; }
-  .post-content{ font-size:16px; }
+  .blog-hero{ text-align:center; }
+  .blog-hero .eyebrow{ margin-left:auto; margin-right:auto; }
+  .blog-hero h1{ font-size:32px; }
+  .blog-hero p{ margin-left:auto; margin-right:auto; }
+
+  .post-header{ text-align:center; }
+  .post-header .back-link{ justify-content:center; }
+  .post-title{ font-size:28px; margin-left:auto; margin-right:auto; }
+  .post-content{ font-size:16px; text-align:left; }
+
+  .blog-state{ padding:40px 24px; }
 }
