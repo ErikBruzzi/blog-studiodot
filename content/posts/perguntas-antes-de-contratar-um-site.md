@@ -1,8 +1,10 @@
 ---
-title: "O que perguntar antes de contratar alguém pra fazer seu site"
-date: "2026-08-13"
-excerpt: "Contratar um site é diferente de contratar a maioria dos serviços: você só descobre se acertou depois de pronto. Estas perguntas ajudam a decidir antes."
-cover: ""
+title: O que perguntar antes de contratar alguém pra fazer seu site
+date: 2026-08-13
+excerpt: "Contratar um site é diferente de contratar a maioria dos serviços:
+  você só descobre se acertou depois de pronto. Estas perguntas ajudam a decidir
+  antes."
+cover: /blog/uploads/post_checklist.png
 ---
 
 Contratar quem vai fazer o site do seu negócio tem um problema específico: é difícil avaliar a qualidade do trabalho antes de ele estar pronto. Diferente de comprar um produto físico, você não consegue "testar antes" — precisa confiar no processo.
