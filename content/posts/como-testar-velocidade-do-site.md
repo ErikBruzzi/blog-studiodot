@@ -1,9 +1,8 @@
 ---
-title: Seu site está lento? Veja como descobrir (e por que isso custa clientes)
-date: 2026-08-11
-excerpt: Velocidade de carregamento não é detalhe técnico — é dinheiro saindo
-  pela porta. Veja como testar a velocidade do seu site em 2 minutos, de graça.
-cover: /blog/uploads/ad_velocidade_converte.png
+title: "Seu site está lento? Veja como descobrir (e por que isso custa clientes)"
+date: "2026-08-11"
+excerpt: "Velocidade de carregamento não é detalhe técnico — é dinheiro saindo pela porta. Veja como testar a velocidade do seu site em 2 minutos, de graça."
+cover: ""
 ---
 
 Um site pode estar visualmente perfeito e ainda assim perder clientes — por um motivo que não tem nada a ver com design: velocidade de carregamento.

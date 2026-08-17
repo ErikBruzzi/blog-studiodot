@@ -1,10 +1,8 @@
 ---
-title: Como escolher o estilo certo de site pro seu tipo de negócio (com 3
-  exemplos reais)
-date: 2026-08-09
-excerpt: Um escritório de advocacia e uma marca de fitness não deveriam ter o
-  mesmo tipo de site. Veja como o estilo visual muda de acordo com o público.
-cover: /blog/uploads/post_checklist.png
+title: "Como escolher o estilo certo de site pro seu tipo de negócio (com 3 exemplos reais)"
+date: "2026-08-09"
+excerpt: "Um escritório de advocacia e uma marca de fitness não deveriam ter o mesmo tipo de site. Veja como o estilo visual muda de acordo com o público."
+cover: "/work-advocacia.png"
 ---
 
 Um erro comum de quem está contratando um site pela primeira vez é pedir "algo bonito e moderno" sem pensar em quem vai visitar aquele site. O problema é que "bonito" muda completamente dependendo do público.
