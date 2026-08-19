@@ -1,9 +1,8 @@
 ---
 title: "SEO não precisa ser complicado: o básico que todo dono de negócio devia saber"
-date: 2026-08-16
-excerpt: Você não precisa virar especialista técnico pra entender o que faz um
-  site aparecer no Google. Aqui está o essencial, sem jargão.
-cover: /blog/uploads/cover_seo_basico.png
+date: "2026-08-16"
+excerpt: "Você não precisa virar especialista técnico pra entender o que faz um site aparecer no Google. Aqui está o essencial, sem jargão."
+cover: "/cover_seo_basico.png"
 ---
 
 SEO (Search Engine Optimization, ou otimização para motores de busca) costuma soar como algo técnico demais pra quem só quer que o próprio negócio apareça quando alguém pesquisa no Google. A boa notícia: o básico é bem mais simples do que o nome sugere.
