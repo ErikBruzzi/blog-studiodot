@@ -5,7 +5,7 @@ date: 2026-08-18
 excerpt: Um site pode ser lindo e ainda assim não converter. Pode carregar
   rápido e ainda ser feio. Pode aparecer no Google e afastar quem chega. Veja
   por que os três precisam andar juntos.
-cover: /blog/uploads/cover_seo_basico.png
+cover: /blog/uploads/cover_3_pilares.png
 ---
 
 Quando alguém procura "criar site pro meu negócio", geralmente está atrás de uma combinação de coisas — quer um site bonito, quer que ele apareça quando alguém pesquisar no Google, e quer que essas visitas virem clientes de verdade. O problema é que a maioria dos serviços de criação de site entrega só uma parte disso.
