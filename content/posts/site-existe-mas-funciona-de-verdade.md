@@ -1,10 +1,8 @@
 ---
-title: Seu site existe. Mas ele funciona de verdade?
-date: 2026-08-20
-excerpt: Um site pode estar no ar, bonito e ranqueando bem — e ainda assim estar
-  quebrado de um jeito que só o cliente percebe. Veja os erros silenciosos mais
-  comuns.
-cover: /blog/uploads/cover_site_quebrado.png
+title: "Seu site existe. Mas ele funciona de verdade?"
+date: "2026-08-20"
+excerpt: "Um site pode estar no ar, bonito e ranqueando bem — e ainda assim estar quebrado de um jeito que só o cliente percebe. Veja os erros silenciosos mais comuns."
+cover: "/cover_site_quebrado.png"
 ---
 
 Existe uma categoria de problema que não aparece em nenhum print de tela, não é visto por quem está checando "se o site tá bonito", e mesmo assim está custando clientes reais: são os **erros silenciosos**.
