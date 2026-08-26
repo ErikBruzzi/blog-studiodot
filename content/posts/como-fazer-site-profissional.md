@@ -1,10 +1,8 @@
 ---
-title: Como fazer um site profissional para o seu negócio (sem complicação)
-date: 2026-08-22
-excerpt: "Um guia direto sobre como fazer um site profissional para sua empresa:
-  o que definir antes, as etapas do processo e como evitar os erros mais
-  comuns."
-cover: /blog/uploads/cover_site_profissional.png
+title: "Como fazer um site profissional para o seu negócio (sem complicação)"
+date: "2026-08-22"
+excerpt: "Um guia direto sobre como fazer um site profissional para sua empresa: o que definir antes, as etapas do processo e como evitar os erros mais comuns."
+cover: "/cover_site_profissional.png"
 ---
 
 Decidir criar um site profissional para o seu negócio costuma vir acompanhado de uma dúvida simples: por onde começar? Este guia explica, em ordem, o que você precisa ter definido antes de começar e como funciona o processo de criar um site profissional — seja para uma empresa nova ou um negócio que nunca teve presença digital própria.
