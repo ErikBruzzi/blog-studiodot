@@ -1,8 +1,11 @@
 ---
-title: "Site lento, desatualizado ou não responsivo? O que realmente faz um site funcionar bem"
-date: "2026-08-23"
-excerpt: "Site otimizado não é sobre parecer bonito — é sobre velocidade, responsividade e estrutura. Veja o que avaliar se você já tem um site e desconfia que algo não está certo."
-cover: "/cover_site_otimizado.png"
+title: Site lento, desatualizado ou não responsivo? O que realmente faz um site
+  funcionar bem
+date: 2026-08-23
+excerpt: Site otimizado não é sobre parecer bonito — é sobre velocidade,
+  responsividade e estrutura. Veja o que avaliar se você já tem um site e
+  desconfia que algo não está certo.
+cover: /blog/uploads/cover_site_otimizado.png
 ---
 
 Ter um site no ar não é garantia de que ele está tecnicamente bem. É comum um site parecer "pronto" — no ar, com design razoável — e ainda assim estar perdendo visitantes por motivos que não aparecem à primeira vista. Este é um resumo do que compõe um **site otimizado** de verdade, e onde procurar se o seu não está.
