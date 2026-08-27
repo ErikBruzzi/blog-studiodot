@@ -1,10 +1,8 @@
 ---
 title: "Landing page ou página de vendas: o que é e como criar uma que converte"
-date: 2026-08-24
-excerpt: Landing page e página de vendas não são a mesma coisa que um site
-  institucional. Veja o que é, como criar uma, e o que faz uma página de alta
-  conversão funcionar.
-cover: /blog/uploads/cover_landing_page.png
+date: "2026-08-24"
+excerpt: "Landing page e página de vendas não são a mesma coisa que um site institucional. Veja o que é, como criar uma, e o que faz uma página de alta conversão funcionar."
+cover: "/cover_landing_page.png"
 ---
 
 Nem todo projeto digital precisa de um site institucional completo. Quando o objetivo é vender um produto específico, divulgar um lançamento ou captar contatos de uma campanha, o formato certo costuma ser outro: a **landing page** — também chamada, no Brasil, de **página de vendas**.
